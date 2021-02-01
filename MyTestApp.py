@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as ta
 from tkinter import ttk, messagebox
 from PIL import ImageTk, Image, ImageOps
 from tkinter import font
